@@ -1,0 +1,193 @@
+project_id,project_name,pi,award_total,start_month,end_month,month,category,amount
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-01,Salaries,7103.62
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-01,Fringe benefits,2014.32
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-01,Graduate tuition,1881.5
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-01,Travel,1307.6
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-01,Supplies,1212.92
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-01,Other,719.78
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-02,Salaries,6505.5
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-02,Fringe benefits,2255.02
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-02,Graduate tuition,1550.25
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-02,Travel,1470.14
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-02,Supplies,1045.15
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-02,Other,657.91
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-03,Salaries,7330.17
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-03,Fringe benefits,2470.63
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-03,Graduate tuition,1596.85
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-03,Travel,1375.46
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-03,Supplies,1245.88
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-03,Other,850.73
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-04,Salaries,7673.48
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-04,Fringe benefits,2180.26
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-04,Graduate tuition,2057.18
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-04,Travel,1295.96
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-04,Supplies,1329.05
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-04,Other,702.66
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-05,Salaries,6699.57
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-05,Fringe benefits,1992.01
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-05,Graduate tuition,1696.58
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-05,Travel,1642.26
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-05,Supplies,1085.06
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-05,Other,768.36
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-06,Salaries,7812.56
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-06,Fringe benefits,2163.87
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-06,Graduate tuition,1825.78
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-06,Travel,1303.26
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-06,Supplies,1041.46
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-06,Other,683.84
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-07,Salaries,7905.9
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-07,Fringe benefits,2201.12
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-07,Graduate tuition,1699.64
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-07,Travel,1538.5
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-07,Supplies,1183.15
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-07,Other,704.95
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-08,Salaries,8162.35
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-08,Fringe benefits,2384.32
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-08,Graduate tuition,1661.81
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-08,Travel,1533.49
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-08,Supplies,1209.07
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-08,Other,834.41
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-09,Salaries,8016.25
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-09,Fringe benefits,2106.86
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-09,Graduate tuition,2059.29
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-09,Travel,1328.13
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-09,Supplies,1170.52
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-09,Other,807.86
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-10,Salaries,6716.97
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-10,Fringe benefits,2242.55
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-10,Graduate tuition,1551.17
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-10,Travel,1575.7
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-10,Supplies,1295.25
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-10,Other,766.43
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-11,Salaries,8344.83
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-11,Fringe benefits,2124.28
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-11,Graduate tuition,1905.46
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-11,Travel,1542.47
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-11,Supplies,1228.76
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-11,Other,740.15
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-12,Salaries,8264.93
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-12,Fringe benefits,2550.16
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-12,Graduate tuition,1786.01
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-12,Travel,1573.87
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-12,Supplies,1041.84
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2025-12,Other,795.34
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-01,Salaries,7831.04
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-01,Fringe benefits,2582.84
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-01,Graduate tuition,1973.84
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-01,Travel,1403.07
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-01,Supplies,1158.88
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-01,Other,787.95
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-02,Salaries,6425.77
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-02,Fringe benefits,2224.14
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-02,Graduate tuition,1620.75
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-02,Travel,1327.69
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-02,Supplies,1041.22
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-02,Other,810.35
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-03,Salaries,6666.02
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-03,Fringe benefits,2079.64
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-03,Graduate tuition,1741.11
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-03,Travel,1667.14
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-03,Supplies,1049.01
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-03,Other,738.57
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-04,Salaries,7611.24
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-04,Fringe benefits,2508.78
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-04,Graduate tuition,1972.41
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-04,Travel,1663.79
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-04,Supplies,1120.23
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-04,Other,730.94
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-05,Salaries,7182.24
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-05,Fringe benefits,2509.33
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-05,Graduate tuition,2047.17
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-05,Travel,1342.91
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-05,Supplies,1083.44
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-05,Other,689.69
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-06,Salaries,6900.01
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-06,Fringe benefits,2239.85
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-06,Graduate tuition,1848.13
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-06,Travel,1393.24
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-06,Supplies,1021.47
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-06,Other,731.76
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-07,Salaries,7205.82
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-07,Fringe benefits,2294.78
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-07,Graduate tuition,2044.67
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-07,Travel,1585.72
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-07,Supplies,1205.58
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-07,Other,776.46
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-08,Salaries,7896.45
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-08,Fringe benefits,1948.95
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-08,Graduate tuition,2015.75
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-08,Travel,1625.99
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-08,Supplies,1334.82
+SAMPLE-100,Sample sensor network,Dr. Jordan Lee,480000,2025-01,2027-12,2026-08,Other,817.02
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-09,Salaries,6532.07
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-09,Fringe benefits,1963.63
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-09,Graduate tuition,1427.32
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-09,Travel,1404.39
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-09,Supplies,938.17
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-09,Other,587.39
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-10,Salaries,6160.25
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-10,Fringe benefits,1819.85
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-10,Graduate tuition,1542.27
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-10,Travel,1168.79
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-10,Supplies,918.08
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-10,Other,604.38
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-11,Salaries,5942.97
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-11,Fringe benefits,1942.14
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-11,Graduate tuition,1389.39
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-11,Travel,1501.6
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-11,Supplies,1116.96
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-11,Other,603.83
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-12,Salaries,6248.32
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-12,Fringe benefits,1932.29
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-12,Graduate tuition,1553.98
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-12,Travel,1197.25
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-12,Supplies,1193.06
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2025-12,Other,774.85
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-01,Salaries,6681.13
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-01,Fringe benefits,2015.18
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-01,Graduate tuition,1418.74
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-01,Travel,1188.89
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-01,Supplies,1029.01
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-01,Other,627.36
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-02,Salaries,7415.93
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-02,Fringe benefits,1819.32
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-02,Graduate tuition,1388.22
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-02,Travel,1532.65
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-02,Supplies,1089.16
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-02,Other,603.44
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-03,Salaries,6837.42
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-03,Fringe benefits,1737.68
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-03,Graduate tuition,1633.66
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-03,Travel,1543.79
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-03,Supplies,1197.72
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-03,Other,714.73
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-04,Salaries,6266.26
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-04,Fringe benefits,1944.02
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-04,Graduate tuition,1458.18
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-04,Travel,1460.13
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-04,Supplies,1090.56
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-04,Other,731.51
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-05,Salaries,6405.07
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-05,Fringe benefits,1856.75
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-05,Graduate tuition,1771.39
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-05,Travel,1546.4
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-05,Supplies,1194.25
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-05,Other,736.98
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-06,Salaries,7394.62
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-06,Fringe benefits,2170.72
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-06,Graduate tuition,1487.2
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-06,Travel,1357.14
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-06,Supplies,1033.2
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-06,Other,579.62
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-07,Salaries,5794.07
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-07,Fringe benefits,1891.0
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-07,Graduate tuition,1502.96
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-07,Travel,1427.97
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-07,Supplies,1227.91
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-07,Other,664.31
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-08,Salaries,7634.97
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-08,Fringe benefits,2321.48
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-08,Graduate tuition,1841.13
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-08,Travel,1295.18
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-08,Supplies,989.43
+SAMPLE-200,Sample data platform,Dr. Alex Chen,240000,2025-09,2027-02,2026-08,Other,619.69

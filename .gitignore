@@ -1,0 +1,7 @@
+node_modules
+dist
+.env*.local
+*.log
+.DS_Store
+# Never commit real statements or faculty financial data
+/private-data/
