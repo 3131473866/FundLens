@@ -4,6 +4,7 @@
 
 <!-- Add a screenshot: docs/screenshot.png -->
 <!-- Live demo: https://YOUR-USERNAME.github.io/fundlens/ -->
+<img width="2560" height="1229" alt="image" src="https://github.com/user-attachments/assets/47b1a3ce-9ff3-4249-869f-325cd43bcda7" />
 
 ## Why I built it
 
